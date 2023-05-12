@@ -3,6 +3,9 @@
 This is my repository with the most interesting pet-projects.
 You can find a short documentation at every project, just to make a light-weight understanding of what the one is about and how does it work.
 
+Internet Market: https://github.com/AntonSerious/Internet_Market
+Cloud Storage: https://github.com/AntonSerious/Cloud_Storage
+Network Chat: https://github.com/AntonSerious/NetworkChat
 <!--
 **AntonSerious/AntonSerious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
