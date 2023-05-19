@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 This is my repository with the most interesting pet-projects.
 You can find a short documentation at every project, just to make a light-weight understanding of what the one is about and how does it work.
